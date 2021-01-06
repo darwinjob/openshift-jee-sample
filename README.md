@@ -1,4 +1,4 @@
-Openseadragon demo viewer for openshift enviiroment
+Openseadragon demo viewer for openshift environment
 ====================
 
 A sample Openseadragon viewer to be deployed on openshift environments. The DeepZoom pyramid is located in webapp folder.
